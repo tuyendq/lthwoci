@@ -1,2 +1,1 @@
-# lthwoci
-Oracle Cloud Infrastructure
+# Oracle Cloud Infrastructure
